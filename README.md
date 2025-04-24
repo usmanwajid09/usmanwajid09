@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Usman Wajid</h1>
-<img src="https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="Image" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height: auto;">
 
 <h3 align="center">CS Undergrad | Backend & C++ Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanwajid09&label=Profile%20views&color=0e75b6&style=flat" alt="usmanwajid09" /> </p>
