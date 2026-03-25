@@ -1,34 +1,212 @@
 <h1 align="center">Hi 👋, I'm Usman Wajid</h1>
 
-<h3 align="center">CS Undergrad | Backend & C++ Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanwajid09&label=Profile%20views&color=0e75b6&style=flat" alt="usmanwajid09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmanwajid09" alt="usmanwajid09" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Virtual Wardrobe System**
-
-- 🌱 I’m currently learning **Operating systems , Database**
-
-- 🤝 I’m looking for help with [the intership in](Web Dev)
-
-- 💬 Ask me about **C++,Problem Solving**
-
-- 📫 How to reach me **usman17017@gmail.com**
-
-- ⚡ Fun fact **I think I have creative mind**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/usman-wajid-26609a362/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usman-wajid-26609a362/" height="30" width="40" /></a>
+<p align="center">
+  🚀 AI Engineer | 🗄️ Database Engineer | 🖼️ Computer Vision Enthusiast
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  🎓 Undergraduate @ FAST NUCES Lahore
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanwajid09&show_icons=true&locale=en&layout=compact" alt="usmanwajid09" /></p>
+<p align="center">
+  <a href="https://novastackltd.com">🌐 NovaStack</a> •
+  <a href="https://usmanwajid.com">💼 Portfolio</a> •
+  <a href="https://linkedin.com/in/usmanwajid26">🔗 LinkedIn</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanwajid09&show_icons=true&locale=en" alt="usmanwajid09" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanwajid09&" alt="usmanwajid09" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&size=26&center=true&vCenter=true&width=700&lines=AI+Engineering+%7C+Machine+Learning;Database+Engineering+%7C+SQL+%2F+NoSQL;Computer+Vision+%7C+OpenCV;Full+Stack+Developer+%7C+MERN;Building+Scalable+Systems;Startup+Builder+%40+NovaStack" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Building **AI-powered systems, scalable web apps & computer vision solutions**
+- 🤝 Open to collaboration in **AI Engineering, Databases & Full Stack Development**
+- 🌱 Learning **Deep Learning, System Design & High-performance architectures**
+- 💬 Ask me about **C++, JavaScript, MERN, Databases, OpenCV**
+- ⚡ Fun fact: **Football player ⚽ + Developer who blends creativity with code**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:0A0F2C&height=2"/>
+</p>
+
+---
+
+## 🚀 Founder Mindset
+
+- 🚀 Co-Founder @ NovaStack  
+- 💡 Building real-world tech solutions  
+- 📊 Focused on AI + scalable data systems  
+- 🧠 Turning ideas into impactful products  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:0A0F2C&height=2"/>
+</p>
+
+---
+
+## 🚀 Domains & Expertise
+
+- 🤖 AI Engineering (Machine Learning, AI Systems) *(Current Focus)*
+- 🗄️ Database Engineering (SQL / NoSQL Optimization)
+- 🖼️ Digital Image Processing (Computer Vision, OpenCV)
+- 🌐 Full Stack Web Development (MERN)
+- 📱 Android App Development
+- 🎨 UI/UX & Graphic Design
+- 📈 Digital Marketing & SEO
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,c,java" />
+</p>
+
+### 🌐 Web
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+<p align="center">MSSQL</p>
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+</p>
+
+<p align="center">Slack</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:0A0F2C&height=2"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🍬 CandyCrush Clone
+- Built a logic-based puzzle game replicating Candy Crush mechanics  
+- Implemented grid-based algorithms, scoring system, and animations  
+- Focused on **problem-solving, game logic & UI interaction**  
+
+---
+
+### 👕 Virtual Wardrobe System
+- Smart wardrobe management system to organize outfits digitally  
+- Includes outfit suggestions and clothing categorization  
+- Combines **database design + user experience optimization**  
+
+---
+
+### 🎨 Pseudo Coloring (Image Processing)
+- Applied pseudo-coloring techniques on grayscale images  
+- Enhanced visual interpretation using **Digital Image Processing & OpenCV**  
+- Demonstrates strong understanding of **pixel manipulation & transformations**  
+
+---
+
+### 🏎️ ASM Racer Game
+- Developed a racing game using **Assembly Language concepts**  
+- Focused on low-level memory handling and performance  
+- Demonstrates deep understanding of **computer architecture**  
+
+---
+
+### 👗 Style IQ (AI-Based Fashion System)
+- AI-powered fashion recommendation system  
+- Suggests outfits based on style, trends, and preferences  
+- Combines **AI + database + UI/UX design**  
+
+---
+
+### 🚀 Space Shooter Game
+- Classic arcade-style shooting game  
+- Implemented collision detection, scoring, and enemy AI  
+- Focused on **game mechanics & interactive design**  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:0A0F2C&height=2"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usmanwajid09&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanwajid09&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanwajid09&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usmanwajid09&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanwajid09&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/usmanwajid09/usmanwajid09/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=usmanwajid09&label=Profile%20Views&color=00ffb3&style=flat" />
+</p>
+
+---
+
+## 🌌 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/usmanwajid26">LinkedIn</a> •
+  <a href="https://usmanwajid.com">Portfolio</a> •
+  <a href="https://novastackltd.com">Company</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0A0F2C&height=120&section=footer"/>
+</p>
