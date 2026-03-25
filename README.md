@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0A0F2C&height=200&section=header&text=Usman%20Wajid&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 <h1 align="center">Hi 👋, I'm Usman Wajid</h1>
 
 <p align="center">
