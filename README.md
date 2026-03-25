@@ -97,49 +97,126 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:0A0F2C&height=2"/>
 </p>
 
----
-
 ## 🚀 Featured Projects
 
+<p align="center">
+  <b>✨ Interactive Portfolio Projects ✨</b>
+</p>
+
+---
+
 ### 🍬 CandyCrush Clone
-- Built a logic-based puzzle game replicating Candy Crush mechanics  
-- Implemented grid-based algorithms, scoring system, and animations  
-- Focused on **problem-solving, game logic & UI interaction**  
+<p align="center">
+  <img src="candy_crush.jpeg" width="800" style="border-radius:10px;" />
+</p>
+
+<p align="center">
+  🎮 <b>Game Development • Logic Building • UI Interaction</b>
+</p>
+
+A fully functional Candy Crush-style puzzle game with dynamic grid mechanics and scoring system.
+
+- 🧠 Smart matching algorithm  
+- 🎯 Score tracking & progression  
+- 🎨 Interactive gameplay UI  
+
+<p align="center">
+  <a href="https://github.com/usmanwajid09/CandyCrush">
+    <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
 ### 👕 Virtual Wardrobe System
-- Smart wardrobe management system to organize outfits digitally  
-- Includes outfit suggestions and clothing categorization  
-- Combines **database design + user experience optimization**  
+<p align="center">
+  <img src="wardrobe.jpeg" width="800" />
+</p>
+
+<p align="center">
+  🧥 <b>Full Stack • Database Design • User Experience</b>
+</p>
+
+A smart wardrobe management system that helps users organize outfits and get suggestions.
+
+- 👗 Outfit categorization  
+- 🤖 Smart recommendations  
+- 📊 Database-driven system  
+
+<p align="center">
+  <a href="https://github.com/usmanwajid09/Virtual-Wardrobe-System">
+    <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
-### 🎨 Pseudo Coloring (Image Processing)
-- Applied pseudo-coloring techniques on grayscale images  
-- Enhanced visual interpretation using **Digital Image Processing & OpenCV**  
-- Demonstrates strong understanding of **pixel manipulation & transformations**  
+### 🎨 Pseudo Coloring (DIP)
+<p align="center">
+  <img src="dip.jpeg" width="800" />
+</p>
+
+<p align="center">
+  🖼️ <b>Image Processing • OpenCV • Visualization</b>
+</p>
+
+Applied pseudo-coloring techniques to grayscale images to enhance interpretation.
+
+- 🎨 Color mapping  
+- 🔍 Pixel-level transformations  
+- 🧠 Computer vision concepts  
+
+<p align="center">
+  <a href="https://github.com/usmanwajid09/Pseudo-Coloring">
+    <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
-### 🏎️ ASM Racer Game
-- Developed a racing game using **Assembly Language concepts**  
-- Focused on low-level memory handling and performance  
-- Demonstrates deep understanding of **computer architecture**  
+### 🏎️ ASM Racer
+<p align="center">
+  <img src="asm_racer.jpeg" width="800" />
+</p>
+
+<p align="center">
+  ⚙️ <b>Low-Level Programming • Performance • Assembly</b>
+</p>
+
+A racing game built using Assembly concepts focusing on memory and performance.
+
+- ⚡ Optimized execution  
+- 🧠 Hardware-level logic  
+- 🎮 Game mechanics  
+
+<p align="center">
+  <a href="https://github.com/usmanwajid09/ASM-Racer">
+    <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
-### 👗 Style IQ (AI-Based Fashion System)
-- AI-powered fashion recommendation system  
-- Suggests outfits based on style, trends, and preferences  
-- Combines **AI + database + UI/UX design**  
+### 🚀 Space Shooter
+<p align="center">
+  <img src="space_shooter.jpeg" width="800" />
+</p>
 
----
+<p align="center">
+  👾 <b>Game Dev • AI Logic • Interactive Design</b>
+</p>
 
-### 🚀 Space Shooter Game
-- Classic arcade-style shooting game  
-- Implemented collision detection, scoring, and enemy AI  
-- Focused on **game mechanics & interactive design**  
+An arcade-style shooter game with enemy AI and collision mechanics.
+
+- 🎯 Shooting mechanics  
+- 👾 Enemy AI  
+- 💥 Collision detection  
+
+<p align="center">
+  <a href="https://github.com/usmanwajid09/Space-Shooter">
+    <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
