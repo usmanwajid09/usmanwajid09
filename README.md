@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Usman Wajid</h1>
 
 <p align="center">
-  🚀 AI Engineer | 🗄️ Database Engineer | 🖼️ Computer Vision Enthusiast
+  🚀 AI Engineer | 🗄️ Database Engineer | 🖼️ Computer Vision Enthusiast | Full-Stack Developer | Software Engineer
 </p>
 
 <p align="center">
