@@ -155,6 +155,7 @@ A frictionless personal reminder & notification system
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
 </p>
+
 ## 🍬 CandyCrush Clone
 
 <p align="center">
