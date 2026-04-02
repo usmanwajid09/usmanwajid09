@@ -1,10 +1,9 @@
+<!-- 🔥 HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0A0F2C&height=200&section=header&text=Usman%20Wajid&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-<h1 align="center">Hi 👋, I'm Usman Wajid</h1>
 
-<p align="center">
-</p>
+<h1 align="center">Hi 👋, I'm Usman Wajid</h1>
 
 <p align="center">
   🎓 Undergraduate @ FAST NUCES Lahore
@@ -21,20 +20,10 @@
 ## 🤖 AI Assistant
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&size=22&center=true&vCenter=true&width=700&lines=Initializing+JARVIS+System...;Welcome+to+Usman+Wajid's+Portfolio;AI+Engineer+Detected;Loading+Projects...;System+Ready+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&size=22&center=true&vCenter=true&width=700&lines=Initializing+JARVIS+System...;Welcome+to+Usman's+Portfolio;Software+Engineer+Detected;Loading+Projects...;System+Ready+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&size=26&center=true&vCenter=true&width=700&lines=AI+Engineering+%7C+Machine+Learning;Database+Engineering+%7C+SQL+%2F+NoSQL;Computer+Vision+%7C+OpenCV;Full+Stack+Developer+%7C+MERN;Building+Scalable+Systems;Startup+Builder+%40+NovaStack" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
+---
 
 ## 💻 Terminal
 
@@ -48,7 +37,6 @@ Access Granted ✅
 
 Welcome, Visitor 👀
 ```
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
 </p>
@@ -155,19 +143,19 @@ Welcome, Visitor 👀
 
 ---
 ## 🔔 Notify Circle (NEW)
-<p align="center"> <a href="https://github.com/usmanwajid09/Notify-Circle"> <img src="https://img.shields.io/badge/🚀%20View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black" /> </a> </p>
 
 A frictionless personal reminder & notification system
 
-📱 Built with Flutter + Dart
-⚡ State Management: GetX
-🗄️ Storage: SQLite
-🔔 Local notifications with high reliability
-🌐 Web-ready with fallback architecture
-### 🍬 CandyCrush Clone
+- 📱 Built with Flutter + Dart
+- ⚡ State Management: GetX
+- 🗄️ Storage: SQLite
+- 🔔 Local notifications with high reliability
+- 🌐 Web-ready with fallback architecture
+<p align="center"> <a href="https://github.com/usmanwajid09/Notify-Circle"> <img src="https://img.shields.io/badge/%20View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black" /> </a> </p>
 <p align="center">
-  <img src="candy_crush.jpeg" width="800" style="border-radius:10px;" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
 </p>
+## 🍬 CandyCrush Clone
 
 <p align="center">
   🎮 <b>Game Development • Logic Building • UI Interaction</b>
@@ -179,20 +167,12 @@ A fully functional Candy Crush-style puzzle game with dynamic grid mechanics and
 - 🎯 Score tracking & progression  
 - 🎨 Interactive gameplay UI  
 
-<p align="center">
-  <a href="https://github.com/usmanwajid09/CandyCrush">
-  </a>
-</p>
-
+<p align="center"> <a href="https://github.com/usmanwajid09/CandyCrush"> <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/> </a> </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
 </p>
 
-### 👕 Virtual Wardrobe System
-<p align="center">
-  <img src="wardrobe.jpeg" width="800" />
-</p>
-
+## 👕 Virtual Wardrobe System
 <p align="center">
   🧥 <b>Full Stack • Database Design • User Experience</b>
 </p>
@@ -203,20 +183,13 @@ A smart wardrobe management system that helps users organize outfits and get sug
 - 🤖 Smart recommendations  
 - 📊 Database-driven system  
 
-<p align="center">
-  <a href="https://github.com/usmanwajid09/Virtual-Wardrobe-System">
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/usmanwajid09/Virtual-Wardrobe-System"> <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/> </a> </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
 </p>
 
-### 🎨 Pseudo Coloring (DIP)
-<p align="center">
-  <img src="dip.jpeg" width="800" />
-</p>
-
+## 🎨 Pseudo Coloring (DIP)
 <p align="center">
   🖼️ <b>Image Processing • OpenCV • Visualization</b>
 </p>
@@ -225,21 +198,14 @@ Applied pseudo-coloring techniques to grayscale images to enhance interpretation
 
 - 🎨 Color mapping  
 - 🔍 Pixel-level transformations  
-- 🧠 Computer vision concepts  
-
-<p align="center">
-  <a href="https://github.com/usmanwajid09/Pseudo-Coloring">
-  </a>
-</p>
-
+- 🧠 Computer vision concepts
+- 
+<p align="center"> <a href="https://github.com/usmanwajid09/Pseudo-Coloring"> <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/> </a> </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
 </p>
 
-### 🏎️ ASM Racer
-<p align="center">
-  <img src="asm_racer.jpeg" width="800" />
-</p>
+## 🏎️ ASM Racer
 
 <p align="center">
   ⚙️ <b>Low-Level Programming • Performance • Assembly</b>
@@ -251,19 +217,12 @@ A racing game built using Assembly concepts focusing on memory and performance.
 - 🧠 Hardware-level logic  
 - 🎮 Game mechanics  
 
-<p align="center">
-  <a href="https://github.com/usmanwajid09/ASM-Racer">
-  </a>
-</p>
-
+<p align="center"> <a href="https://github.com/usmanwajid09/ASM-Racer"> <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/> </a> </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
 </p>
 
-### 🚀 Space Shooter
-<p align="center">
-  <img src="space_shooter.jpeg" width="800" />
-</p>
+## 🚀 Space Shooter
 
 <p align="center">
   👾 <b>Game Dev • AI Logic • Interactive Design</b>
@@ -275,10 +234,7 @@ An arcade-style shooter game with enemy AI and collision mechanics.
 - 👾 Enemy AI  
 - 💥 Collision detection  
 
-<p align="center">
-  <a href="https://github.com/usmanwajid09/Space-Shooter">
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/usmanwajid09/Space-Shooter"> <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/> </a> </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
