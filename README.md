@@ -253,10 +253,11 @@ An arcade-style shooter game with enemy AI and collision mechanics.
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usmanwajid09&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
+- 🧠 Strong foundation in AI, Databases & Systems  
+- 🚀 Built multiple real-world projects  
+- 🏆 Competitive programming & problem solving  
+- ⚡ Active GitHub contributor
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
 </p>
