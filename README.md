@@ -248,15 +248,7 @@ An arcade-style shooter game with enemy AI and collision mechanics.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanwajid09&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanwajid09&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
+  <img src="https://streak-stats.demolab.com?user=usmanwajid09&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 Achievements
