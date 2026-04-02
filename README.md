@@ -108,13 +108,16 @@ Welcome, Visitor 👀
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python,c,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,c,java,dart" />
 </p>
 
 ### 🌐 Web
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
+
+📱 Mobile
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter" /> </p>
 
 ### 🗄️ Databases
 <p align="center">
@@ -151,7 +154,16 @@ Welcome, Visitor 👀
 </p>
 
 ---
+## 🔔 Notify Circle (NEW)
+<p align="center"> <a href="https://github.com/usmanwajid09/Notify-Circle"> <img src="https://img.shields.io/badge/🚀%20View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black" /> </a> </p>
 
+A frictionless personal reminder & notification system
+
+📱 Built with Flutter + Dart
+⚡ State Management: GetX
+🗄️ Storage: SQLite
+🔔 Local notifications with high reliability
+🌐 Web-ready with fallback architecture
 ### 🍬 CandyCrush Clone
 <p align="center">
   <img src="candy_crush.jpeg" width="800" style="border-radius:10px;" />
@@ -169,7 +181,6 @@ A fully functional Candy Crush-style puzzle game with dynamic grid mechanics and
 
 <p align="center">
   <a href="https://github.com/usmanwajid09/CandyCrush">
-    <img src="https://img.shields.io/badge/🚀%20Launch%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
@@ -194,7 +205,6 @@ A smart wardrobe management system that helps users organize outfits and get sug
 
 <p align="center">
   <a href="https://github.com/usmanwajid09/Virtual-Wardrobe-System">
-    <img src="https://img.shields.io/badge/🚀%20Launch%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
@@ -219,7 +229,6 @@ Applied pseudo-coloring techniques to grayscale images to enhance interpretation
 
 <p align="center">
   <a href="https://github.com/usmanwajid09/Pseudo-Coloring">
-    <img src="https://img.shields.io/badge/🚀%20Launch%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
@@ -244,7 +253,6 @@ A racing game built using Assembly concepts focusing on memory and performance.
 
 <p align="center">
   <a href="https://github.com/usmanwajid09/ASM-Racer">
-    <img src="https://img.shields.io/badge/🚀%20Launch%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
@@ -269,7 +277,6 @@ An arcade-style shooter game with enemy AI and collision mechanics.
 
 <p align="center">
   <a href="https://github.com/usmanwajid09/Space-Shooter">
-    <img src="https://img.shields.io/badge/🚀%20Launch%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
