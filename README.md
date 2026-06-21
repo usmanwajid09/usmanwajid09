@@ -1,307 +1,177 @@
-<!-- 🔥 HEADER -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0A0F2C&height=200&section=header&text=Usman%20Wajid&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Usman%20Wajid&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Usman Wajid</h1>
 
 <p align="center">
-  🎓 Undergraduate @ FAST NUCES Lahore
+  🎓 BS Computer Science @ FAST NUCES Lahore <br>
+  💼 Founder @ NovaStack <br>
+  🤖 AI Engineering • Full Stack Development • Database Systems
 </p>
 
 <p align="center">
-  <a href="https://novastackltd.com">🌐 NovaStack</a> •
-  <a href="https://usmanwajid.com">💼 Portfolio</a> •
-  <a href="https://linkedin.com/in/usmanwajid26">🔗 LinkedIn</a>
+  <a href="https://usmanwajid.com">Portfolio</a> •
+  <a href="https://novastackltd.com">NovaStack</a> •
+  <a href="https://linkedin.com/in/usmanwajid26">LinkedIn</a>
 </p>
 
 ---
 
-## 🤖 AI Assistant
+## 🌱 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&size=22&center=true&vCenter=true&width=700&lines=Initializing+JARVIS+System...;Welcome+to+Usman's+Portfolio;Software+Engineer+Detected;Loading+Projects...;System+Ready+🚀" />
-</p>
+- 🚀 Building AI-powered systems and scalable web applications
+- 💻 Experienced in MERN Stack, Databases, Flutter & Machine Learning
+- 🤖 Interested in AI Engineering, Computer Vision & Automation
+- 📊 Strong foundation in Database Design and System Development
+- ⚽ Football enthusiast and technology builder
 
 ---
 
-## 💻 Terminal
+## 🛠️ Tech Stack
 
-```bash
-> boot usman_profile.exe
+### Languages & Frameworks
 
-Initializing modules...
-Loading AI Engine...
-Connecting to NovaStack...
-Access Granted ✅
-
-Welcome, Visitor 👀
-```
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
+<p>
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter">
 </p>
 
-## 🧠 System Status
+### Databases & Cloud
 
-```diff
-+ AI Engine: Online
-+ Database Systems: Optimized
-+ Computer Vision: Active
-+ NovaStack Systems: Running
-- Sleep Mode: Disabled
-```
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws">
+<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud">
 </p>
 
-## 👨‍💻 About Me
+### AI / ML
 
-- 🔭 Building **AI-powered systems, scalable web apps & computer vision solutions**
-- 🤝 Open to collaboration in **AI Engineering, Databases & Full Stack Development**
-- 🌱 Learning **Deep Learning, System Design & High-performance architectures**
-- 💬 Ask me about **C++, JavaScript, MERN, Databases, OpenCV**
-- ⚡ Fun fact: **Football player ⚽ + Developer who blends creativity with code**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow">
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras">
+<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
 </p>
 
-## 🚀 Founder Mindset
+### Tools
 
-- 🚀 Co-Founder @ NovaStack  
-- 💡 Building real-world tech solutions  
-- 📊 Focused on AI + scalable data systems  
-- 🧠 Turning ideas into impactful products  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma">
 </p>
 
-## 🚀 Domains & Expertise
-
-- 🤖 AI Engineering (Machine Learning, AI Systems) *(Current Focus)*
-- 🗄️ Database Engineering (SQL / NoSQL Optimization)
-- 🖼️ Digital Image Processing (Computer Vision, OpenCV)
-- 🌐 Full Stack Web Development (MERN)
-- 📱 Android App Development
-- 🎨 UI/UX & Graphic Design
-- 📈 Digital Marketing & SEO
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
-
-## 🧠 Tech Stack
-
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python,c,java,dart" />
-</p>
-
-### 🌐 Web
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
-
-📱 Mobile
-<p align="center"> <img src="https://skillicons.dev/icons?i=flutter" /> </p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-
-### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma" />
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
-
-## 🧊 System Overview
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Core-Active-00FFB3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-Optimized-0A0F2C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vision-System-Online-00FFB3?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
+---
 
 ## 🚀 Featured Projects
 
+### 📈 TradeJournal
+Full-stack MERN trading journal application for tracking and analyzing trades.
+
+### 🫁 Pneumonia Detection
+Research-based machine learning system for pneumonia classification from medical images.
+
+### 📱 Notify Circle
+Flutter application for reminders and smart notifications.
+
+### 👕 Virtual Wardrobe
+MSSQL + Express.js wardrobe management system.
+
+### 🎨 StyleIQ
+Frontend startup web application with modern UI/UX.
+
+### 🖼️ Pak Art Gallery
+Responsive frontend platform for showcasing digital artwork.
+
+### 🌈 Pseudo Coloring
+Digital image processing implementation using Python.
+
+### 🎮 Candy Crush
+C++ game built using SFML.
+
+### 🚀 Space Shooter
+Arcade-style shooter game developed in C++.
+
+### 🏎️ ASM Racer
+Assembly Language racing game focused on low-level programming.
+
+### 🎲 Tic Tac Toe
+Interactive JavaScript browser game.
+
+### 🎨 PlaySmart
+HCI-based interface design project emphasizing usability and accessibility.
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <b>✨ Interactive Portfolio Projects ✨</b>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=usmanwajid09&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanwajid09&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=usmanwajid09&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-## 🔔 Notify Circle (NEW)
 
-A frictionless personal reminder & notification system
-
-- 📱 Built with Flutter + Dart
-- ⚡ State Management: GetX
-- 🗄️ Storage: SQLite
-- 🔔 Local notifications with high reliability
-- 🌐 Web-ready with fallback architecture
-<p align="center"> <a href="https://github.com/usmanwajid09/Notify-Circle"> <img src="https://img.shields.io/badge/%20View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black" /> </a> </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
-
-## 🍬 CandyCrush Clone
+## 📈 Contribution Graph
 
 <p align="center">
-  🎮 <b>Game Development • Logic Building • UI Interaction</b>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanwajid09&theme=tokyo-night&hide_border=true"/>
 </p>
 
-A fully functional Candy Crush-style puzzle game with dynamic grid mechanics and scoring system.
-
-- 🧠 Smart matching algorithm  
-- 🎯 Score tracking & progression  
-- 🎨 Interactive gameplay UI  
-
-<p align="center"> <a href="https://github.com/usmanwajid09/CandyCrush"> <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/> </a> </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
-
-## 👕 Virtual Wardrobe System
-<p align="center">
-  🧥 <b>Full Stack • Database Design • User Experience</b>
-</p>
-
-A smart wardrobe management system that helps users organize outfits and get suggestions.
-
-- 👗 Outfit categorization  
-- 🤖 Smart recommendations  
-- 📊 Database-driven system  
-
-<p align="center"> <a href="https://github.com/usmanwajid09/Virtual-Wardrobe-System"> <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/> </a> </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
-
-## 🎨 Pseudo Coloring (DIP)
-<p align="center">
-  🖼️ <b>Image Processing • OpenCV • Visualization</b>
-</p>
-
-Applied pseudo-coloring techniques to grayscale images to enhance interpretation.
-
-- 🎨 Color mapping  
-- 🔍 Pixel-level transformations  
-- 🧠 Computer vision concepts
-- 
-<p align="center"> <a href="https://github.com/usmanwajid09/Pseudo-Coloring"> <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/> </a> </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
-
-## 🏎️ ASM Racer
-
-<p align="center">
-  ⚙️ <b>Low-Level Programming • Performance • Assembly</b>
-</p>
-
-A racing game built using Assembly concepts focusing on memory and performance.
-
-- ⚡ Optimized execution  
-- 🧠 Hardware-level logic  
-- 🎮 Game mechanics  
-
-<p align="center"> <a href="https://github.com/usmanwajid09/ASM-Racer"> <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/> </a> </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
-
-## 🚀 Space Shooter
-
-<p align="center">
-  👾 <b>Game Dev • AI Logic • Interactive Design</b>
-</p>
-
-An arcade-style shooter game with enemy AI and collision mechanics.
-
-- 🎯 Shooting mechanics  
-- 👾 Enemy AI  
-- 💥 Collision detection  
-
-<p align="center"> <a href="https://github.com/usmanwajid09/Space-Shooter"> <img src="https://img.shields.io/badge/View%20Project-00FFB3?style=for-the-badge&logo=github&logoColor=black"/> </a> </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmanwajid09&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=usmanwajid09&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🏆 Achievements
-
-- 🧠 Strong foundation in AI, Databases & Systems  
-- 🚀 Built multiple real-world projects  
-- 🏆 Competitive programming & problem solving  
-- ⚡ Active GitHub contributor
-  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanwajid09&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
+---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/usmanwajid09/usmanwajid09/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
-
-## 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=usmanwajid09&label=Profile%20Views&color=00ffb3&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:000000&height=3"/>
-</p>
-
-## 🌌 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/usmanwajid26">LinkedIn</a> •
-  <a href="https://usmanwajid.com">Portfolio</a> •
-  <a href="https://novastackltd.com">Company</a>
+  <img src="https://raw.githubusercontent.com/usmanwajid09/usmanwajid09/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0A0F2C&height=120&section=footer"/>
+  <a href="https://linkedin.com/in/usmanwajid26">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://usmanwajid.com">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge">
+  </a>
+
+  <a href="https://novastackltd.com">
+    <img src="https://img.shields.io/badge/NovaStack-00C853?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=usmanwajid09&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 </p>
