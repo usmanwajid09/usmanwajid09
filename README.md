@@ -19,14 +19,14 @@
 
 ---
 
-## 🌱 About Me
+## 👨‍💻 About Me
 
-- 🚀 Building AI-powered systems and scalable web applications
-- 💻 Experienced in MERN Stack, Databases, Flutter & Machine Learning
-- 🤖 Interested in AI Engineering, Computer Vision & Automation
-- 📊 Strong foundation in Database Design and System Development
-- ⚽ Football enthusiast and technology builder
-
+- 🤖 Passionate about Artificial Intelligence, Machine Learning & Computer Vision
+- 🔭 Building AI-powered systems, full-stack web applications, and automation solutions
+- 🧠 Experienced in model training, image processing, and research-based implementations
+- 💻 Skilled in MERN Stack, Databases, Flutter, and Backend Development
+- 🚀 Founder @ NovaStack, developing real-world technology solutions
+- 🌱 Currently exploring Deep Learning, Generative AI, and AI Agents
 ---
 
 ## 🛠️ Tech Stack
@@ -45,18 +45,20 @@
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express">
 </p>
 
 ### Databases & Cloud
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws">
-<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite">
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver">
 </p>
 
 ### AI / ML
@@ -67,8 +69,20 @@
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras">
 <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain">
+<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge">
+<img src="https://img.shields.io/badge/Vector_DB-0EA5E9?style=for-the-badge">
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions">
 </p>
 
 ### Tools
@@ -80,6 +94,19 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma">
 </p>
+
+---
+
+## 🧠 AI & Machine Learning
+
+- Machine Learning Model Development
+- Computer Vision Applications
+- Digital Image Processing
+- Medical Image Classification
+- Research-Based AI Implementations
+- Data Preprocessing & Feature Engineering
+- Model Training & Evaluation
+- Deep Learning Fundamentals
 
 ---
 
